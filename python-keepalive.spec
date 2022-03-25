@@ -7,7 +7,7 @@ Summary:	Python 2 HTTP handler for urllib2 that supports HTTP 1.1 and keepalive
 Summary(pl.UTF-8):	Klasa Pythona 2 obsługująca HTTP dla urllib2 z obsługą HTTP 1.1 i keepalive
 Name:		python-keepalive
 Version:	0.5
-Release:	6
+Release:	7
 License:	LGPL v2.1+
 Group:		Libraries/Python
 #Source0Download: https://github.com/wikier/keepalive/releases
